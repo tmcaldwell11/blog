@@ -10,4 +10,4 @@ I decided to build this blog through Github Pages and Jekyll. Anyway, I forked o
 
 
 ![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&h=940&fit=crop)
-![desk](../IMG_3338.JPG)
+![desk](IMG_3338.JPG)
