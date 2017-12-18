@@ -1,7 +1,7 @@
 ---
 date: 2017-11-07
 title: Starting New!
-featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
+featured_image: https://github.com/tmcaldwell11/blog/blob/gh-pages/images/IMG_3338.JPG?raw=true
 Post:
 ---
 So I’m a new at coding. I made a complete career 360 and attended a coding bootcamp in January 2017. Shortly after finishing up my bootcamp, I landed my first front end web developer job. Now I’m currently working as a contractor for a bank and training as a web developer. I still have SOOOO much to learn and will be sharing my experience on this blog!
