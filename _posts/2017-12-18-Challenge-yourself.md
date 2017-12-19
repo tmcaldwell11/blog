@@ -1,7 +1,7 @@
 ---
 date: 2017-12-18
 title: Challenge yourself to complete a task, even when you think you can't!
-featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
+featured_image: https://github.com/tmcaldwell11/blog/blob/gh-pages/images/IMG_4192.JPG?raw=true
 post:
 ---
   I've finally finished enough of my blog to not be completely embarrassed by it! It literally feels like I’ve been working on this FOREVER! For reference, I started it in October and I told myself this blog was a work in progress. This weekend I hit a wall BUT I really wanted to challenge myself to finish what I could to make it presentable.
