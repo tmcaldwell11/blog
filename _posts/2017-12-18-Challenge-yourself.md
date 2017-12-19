@@ -1,6 +1,6 @@
 ---
 date: 2017-12-18
-title: Challenge yourself to complete a task, even when you think you can't!
+title: Challenge yourself to complete a difficult task!
 featured_image: https://github.com/tmcaldwell11/blog/blob/gh-pages/images/IMG_4192.JPG?raw=true
 post:
 ---
