@@ -62,4 +62,18 @@ ol li {
 	margin: 10px 0 0 0;
 }
 
-
+.jump-link {
+  text-align: center; /* center the button-can also use left or right */ 
+  background: transparent;
+}
+.jump-link a {
+  background: #444444; /* change background color for the button */
+  color: #ffffff; /* change text color */ 
+  padding: 5px;
+  border-radius: 5px; /* button shape: 0px for squared edges or 5px for a rounded rectangle */ 
+}
+.jump-link a:hover {
+  background: #ffffff; /* change background color on hover */
+  color: #444444; /* change text color on hover */  
+  text-decoration: none;
+} 
