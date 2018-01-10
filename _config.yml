@@ -2,8 +2,8 @@
 # Site
 
 title: Teresa Caldwell
-url: "https://tmcaldwell11.github.io/blog/"
-baseurl:
+url: //"https://tmcaldwell11.github.io/blog/"
+baseurl: ""
 google_analytics_key:
 newsletter_action: "//your-mailchimp-action-url.com"
 disqus_shortname:
