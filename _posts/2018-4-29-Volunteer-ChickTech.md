@@ -1,7 +1,7 @@
 ---
 date: 2018-4-29
 title: Volunteering with ChickTech
-Featured image: https://github.com/tmcaldwell11/blog/blob/gh-pages/images/IMG_9758.jpg?raw=true
+Featured_image: https://github.com/tmcaldwell11/blog/blob/gh-pages/images/IMG_9758.jpg?raw=true
 Post:
 ---
 Last weekend I had the opportunity to volunteer with ChickTech Charlotte’s first high school workshop. It was really an awesome experience seeing these young ladies planning, designing, and coding their very own websites for the first time. It was a long day and a lot to take in. Even I was dreading having to wake up so early on a Saturday and spending my entire day inside, especially with the weather getting so nice lately. I surprisingly had a great time. Not only did I learn a thing or two about UX/UI design but also I learned about a few resources that would even help me during my own coding journey. 
