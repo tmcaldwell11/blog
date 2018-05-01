@@ -1,6 +1,6 @@
 ---
 date: 2017-12-18
-title: Challenge Yourself to Complete a Difficult Task
+title: Challenge Yourself!
 featured_image: https://github.com/tmcaldwell11/blog/blob/gh-pages/images/IMG_4192.JPG?raw=true
 post:
 ---
